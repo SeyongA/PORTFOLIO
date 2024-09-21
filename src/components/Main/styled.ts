@@ -14,4 +14,15 @@ export const MainPageStyled = styled.div`
       line-height: 2;
     }
   }
+
+  .fade-in {
+    opacity: 0;
+    animation: fadeIn 1.5s ease-in-out 2s forwards;
+  }
+
+  @keyframes fadeIn {
+    to {
+      opacity: 1;
+    }
+  }
 `;

@@ -4,7 +4,7 @@ const Skills = () => {
 
   return (
     <SkillsPageStyled>
-      <p>aaaa</p>
+      <section id="Skills">aaa</section>
     </SkillsPageStyled>
   );
 };

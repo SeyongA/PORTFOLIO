@@ -1,10 +1,9 @@
 import { ProjectsPageStyled } from './styled';
 
 const Projects = () => {
-
   return (
     <ProjectsPageStyled>
-      <p>aaaa</p>
+      <section id="Project">aaa</section>
     </ProjectsPageStyled>
   );
 };

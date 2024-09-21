@@ -1,10 +1,9 @@
 import { AboutPageStyled } from './styled';
 
 const About = () => {
-
   return (
     <AboutPageStyled>
-      <p>aaaa</p>
+      <section id="about-me">aaa</section>
     </AboutPageStyled>
   );
 };

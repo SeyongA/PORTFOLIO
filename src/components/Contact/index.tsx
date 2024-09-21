@@ -4,7 +4,7 @@ const Contact = () => {
 
   return (
     <ContactPageStyled>
-      <p>aaaa</p>
+      <section id="Contact">aaa</section>
     </ContactPageStyled>
   );
 };
