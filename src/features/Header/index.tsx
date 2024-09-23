@@ -3,6 +3,8 @@ import { HeaderStyled } from './styled';
 import logo from '@/assets/image/PF_logo.png';
 import { scroller } from 'react-scroll';
 const Header = () => {
+
+  // 부드럽게 넘어가는 함수
   const scrollToSection = (sectionName: any) => {
     scroller.scrollTo(sectionName, {
       duration: 800, // 부드러운 스크롤 애니메이션 시간 (ms)

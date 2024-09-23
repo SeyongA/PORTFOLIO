@@ -10,8 +10,8 @@ export const MainPageStyled = styled.div`
     padding-top: 200px;
     h2 {
       font-weight: 700;
-      font-size: 70px;
-      line-height: 2;
+      font-size: 15vh;
+      line-height: 1.6;
     }
   }
 

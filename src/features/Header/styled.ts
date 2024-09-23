@@ -49,6 +49,7 @@ export const HeaderStyled = styled.div`
           display: inline-block;
           font-weight: 600;
           color: #fff;
+          padding: 4px;
         }
 
         li span::after {
