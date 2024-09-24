@@ -86,6 +86,9 @@ export const HeaderStyled = styled.div`
     border-top: 0;
     backdrop-filter: blur(4px);
     animation: slideUpSns 1.5s ease-in-out 0.5s forwards;
+    #icons{
+      font-size: 38px;
+    }
   }
 
   @keyframes logo {
