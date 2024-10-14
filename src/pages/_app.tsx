@@ -43,7 +43,6 @@ export default function App() {
   //   }
   // }, [currentSection]);
 
-
   return (
     <div
     //  onWheel={handleWheel} ref={contentRef} style={{ height: '100vh', overflow : 'hidden'}}
