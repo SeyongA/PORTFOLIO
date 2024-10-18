@@ -43,9 +43,8 @@ const About = () => {
               <p>
                 안녕하세요, 저는 <strong>컴퓨터 소프트웨어 전공</strong>을 바탕으로 프론트엔드 개발자로 성장하고 있는 주혜지입니다. 제가 웹
                 개발에 끌리게 된 이유는 제 손끝에서 탄생하는 웹사이트들이 언제나 새롭고 흥미로웠기 때문입니다. 이 흥미를 발전시키고자{' '}
-                <strong>포스코X코딩온 웹 13기 풀스택 과정</strong>에서
                 <span>Vue.js</span>, <span>React</span>, <span>Next.js</span>, <span>JavaScript</span>,<span>CSS</span>, <span>HTML</span>,{' '}
-                <span>Node.js</span>와 같은 기술을 체계적으로 배울 수 있었습니다.
+                <span>Node.js</span>와 같은 기술을 공부 하였습니다.
               </p>
               <br />
               <p>
